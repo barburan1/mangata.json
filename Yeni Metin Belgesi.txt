@@ -1,0 +1,7 @@
+{
+  "name": "bburan",
+  "website": "https://github.com/barburan1",
+  "description": "rues",
+  "logo": "https://hizliresim.com/6ozmsog",
+  "twitter": "https://twitter.com/barburan16"
+}
