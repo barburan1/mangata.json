@@ -2,6 +2,6 @@
   "name": "bburan",
   "website": "https://github.com/barburan1",
   "description": "rues",
-  "logo": "https://hizliresim.com/6ozmsog",
+  "logo": "https://ibb.co/xgs1N7Y",
   "twitter": "https://twitter.com/barburan16"
 }
